@@ -5,4 +5,4 @@
 #### pomodoro theory
 #### Feynman theory
 
-## Figma
+#### Figma (Design)
